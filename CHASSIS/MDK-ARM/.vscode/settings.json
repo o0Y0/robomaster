@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp_spi.h": "c",
+        "robot.h": "c",
+        "referee_info.h": "c"
+    }
+}
